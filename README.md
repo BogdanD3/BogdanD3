@@ -77,12 +77,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <!-- Ant Design -->
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://ant.design/icons/fill/ant-design.svg" alt="ant design" width="40" height="40"/>
-  </a>
   <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353401/ant-design.svg" alt="Ant Design" width="40" height="40"/>
+  </a>
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=todorw&show_icons=true&locale=en&layout=compact" alt="todorw" /></p>
