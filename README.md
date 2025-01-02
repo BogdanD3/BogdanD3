@@ -67,7 +67,7 @@
   </a>
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
   </a>
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
