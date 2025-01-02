@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todorw&label=Profile%20views&color=0e75b6&style=flat" alt="todorw" /> </p>
 
-🚀 I’m currently building TastyGram – a food-sharing platform.
+- 🔭 I’m currently working on [KumOS](https://github.com/TodorW/KumOS)
 
-📚 I’m diving deep into Laravel and backend development.
+- 🌱 I’m currently learning **Laravel**
 
-💻 Ask me about **React, TS and C++** – I love discussing code!
+- 💬 Ask me about **react, js, laravel**
 
-🎨 I enjoy designing UIs and building user-friendly interfaces.
+- 📫 How to reach me **vuk.todorovic@protomail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,11 +82,8 @@
     <img src="https://ant.design/icons/fill/ant-design.svg" alt="ant design" width="40" height="40"/>
   </a>
   <!-- Tailwind CSS -->
-    <a href="https://www.tailwind.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
-
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=todorw&show_icons=true&locale=en&layout=compact" alt="todorw" /></p>
 
