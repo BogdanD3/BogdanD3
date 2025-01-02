@@ -16,8 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/delicbogdan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bogdan" height="30" width="40" /></a>
-  <a href="https://discord.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discord/discord-original.svg" alt="Bogdan" height="30" width="40" />
+ <a href="https://discord.com/users/your-user-id" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Discord_logo_2021.svg" alt="Discord" height="30" width="40" />
+  </a>
   </a>
   <span> BD30406</span>
 
