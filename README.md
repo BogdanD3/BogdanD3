@@ -82,8 +82,8 @@
     <img src="https://ant.design/icons/fill/ant-design.svg" alt="ant design" width="40" height="40"/>
   </a>
   <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.1b0a3e3f.svg" alt="tailwind css" width="40" height="40"/>
+    <a href="https://www.tailwind.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
 
