@@ -5,19 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=todorw&label=Profile%20views&color=0e75b6&style=flat" alt="todorw" /> </p>
 
-- 🔭 I’m currently working on [KumOS](https://github.com/TodorW/KumOS)
+🚀 I’m currently building TastyGram – a food-sharing platform.
 
-- 🌱 I’m currently learning **Laravel**
+📚 I’m diving deep into Laravel and backend development.
 
-- 💬 Ask me about **react, js, laravel**
+💻 Ask me about **React, TS, C++** – I love discussing code!
 
-- 📫 How to reach me **vuk.todorovic@protomail.com**
+🎨 I enjoy designing UIs and building user-friendly interfaces.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/todorovic.vuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todorovic.vuk" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/vuktodorovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="Vuk Todorović" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/delicbogdan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bogdan" height="30" width="40" /></a>
+  <a href="https://discord.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discord/discord-original.svg" alt="Bogdan" height="30" width="40" />
+  </a>
+  <span> BD30406</span>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
