@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=todorw&label=Profile%20views&color=0e75b6&style=flat" alt="todorw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BogdanD3&label=Profile%20views&color=0e75b6&style=flat" alt="BogdanD3" /> </p>
 
 🚀 I’m currently building TastyGram – a food-sharing platform.
 
@@ -87,8 +87,8 @@
   </a>
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=todorw&show_icons=true&locale=en&layout=compact" alt="todorw" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanD3&show_icons=true&locale=en&layout=compact" alt="BogdanD3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=todorw&show_icons=true&locale=en" alt="todorw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BogdanD3&show_icons=true&locale=en" alt="BogdanD3" /></p>
 
-<p><img align="center" src="https://camo.githubusercontent.com/5f02fb7a716ae331d02cc99e8bcd018ea14cf3f6024f6b3399ad826fbaf549ee/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746f646f727726" alt="todorw" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/5f02fb7a716ae331d02cc99e8bcd018ea14cf3f6024f6b3399ad826fbaf549ee/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746f646f727726" alt="BogdanD3" /></p>
