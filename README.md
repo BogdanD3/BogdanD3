@@ -67,11 +67,11 @@
   </a>
   <!-- Vite -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a>
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
   </a>
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -79,9 +79,14 @@
   </a>
   <!-- Ant Design -->
   <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x460-1niqgk5p.png" alt="ant design" width="40" height="40"/>
+    <img src="https://ant.design/icons/fill/ant-design.svg" alt="ant design" width="40" height="40"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.1b0a3e3f.svg" alt="tailwind css" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=todorw&show_icons=true&locale=en&layout=compact" alt="todorw" /></p>
 
