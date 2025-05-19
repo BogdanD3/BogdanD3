@@ -1,9 +1,10 @@
 <h1 align="center">Hi , I'm Bogdan Delic</h1>
 <h3 align="center">A passionate fullstack developer from Montenegro 🇲🇪</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://lottie.host/embed/ef521193-6f7d-4d03-b5f1-db7d73d2f5e1/StGSZASvZX.lottie">
+<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+<dotlottie-player src="https://lottie.host/ef521193-6f7d-4d03-b5f1-db7d73d2f5e1/StGSZASvZX.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BogdanD3&label=Profile%20views&color=0e75b6&style=flat" alt="BogdanD3" /> </p>
 
