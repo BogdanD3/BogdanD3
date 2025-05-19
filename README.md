@@ -2,11 +2,11 @@
 <h3 align="center">A passionate fullstack developer from Montenegro 🇲🇪</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://lottie.host/ef521193-6f7d-4d03-b5f1-db7d73d2f5e1/StGSZASvZX.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay>
+<img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BogdanD3&label=Profile%20views&color=0e75b6&style=flat" alt="BogdanD3" /> </p>
 
-🚀 I’m currently building TastyGram – a food-sharing platform.
+🚀 I’m currently building E-commerce Website – a food-sharing platform.
 
 📚 I’m diving deep into Laravel and backend development.
 
