@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Bogdan Delic</h1>
-<h3 align="center">A passionate fullstack developer from Montenegro 🇲🇪</h3>
+<h3 align="center">CS student and a fullstack developer from Montenegro 🇲🇪</h3>
 
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
