@@ -24,67 +24,68 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <!-- C++ -->
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <!-- Android Studio -->
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
-  </a>
-  <!-- Vite -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  </a>
-  <!-- Ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <!-- Tailwind CSS -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353401/ant-design.svg" alt="Ant Design" width="40" height="40"/>
-  </a>
+<!-- Languages -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<!-- Frontend Frameworks & Styling -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://ant.design/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/353401/ant-design.svg" alt="Ant Design" width="40" height="40"/>
+</a>
+
+<!-- Backend & API -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+</a>
+<a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+  <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/>
+</a>
+
+<!-- UI/UX Tools -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<!-- Architecture / System Design -->
+<a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/3542/3542232.png" alt="architecture" width="40" height="40"/>
+</a>
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanD3&show_icons=true&locale=en&layout=compact" alt="BogdanD3" /></p>
