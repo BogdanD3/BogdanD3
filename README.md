@@ -24,67 +24,134 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- Languages -->
-<!-- Languages -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40">
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40">
-</a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40">
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40">
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40">
-</a>
+<!-- =========================== -->
+<!-- Skills / Portfolio Section -->
+<!-- =========================== -->
 
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40">
-</a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40">
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40">
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40">
-</a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=antd" alt="ant design" width="40" height="40">
-</a>
+<style>
+  .skills-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  .skills-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+  }
+  .skills-group h4 {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  .skills-group img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.2s;
+  }
+  .skills-group img:hover {
+    transform: scale(1.2);
+  }
+</style>
 
-<!-- Backend & API -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40">
-</a>
-<a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=axios" alt="axios" width="40" height="40">
-</a>
+<div class="skills-section">
 
-<!-- UI/UX Tools -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40">
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40">
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40">
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40">
-</a>
+  <!-- Primary Expertise: Web Development -->
+  <div class="skills-group">
+    <h4>Web Development</h4>
+    <!-- Languages -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java">
+    </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=c" alt="C">
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python">
+    </a>
 
-<!-- Architecture/System -->
-<a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=diagram" alt="architecture" width="40" height="40">
-</a>
+    <!-- Frontend -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=react" alt="React">
+    </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=redux" alt="Redux">
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind">
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+    </a>
+    <a href="https://ant.design/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=antd" alt="Ant Design">
+    </a>
+
+    <!-- Backend -->
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel">
+    </a>
+    <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=axios" alt="Axios">
+    </a>
+  </div>
+
+  <!-- Editors & Design Tools -->
+  <div class="skills-group">
+    <h4>Editors & Design</h4>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
+    </a>
+  </div>
+
+  <!-- Tools & Libraries -->
+  <div class="skills-group">
+    <h4>Tools & Libraries</h4>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git">
+    </a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=vite" alt="Vite">
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=diagram" alt="Architecture">
+    </a>
+  </div>
+
+  <!-- Personal Interests / Things You Enjoy -->
+  <div class="skills-group">
+    <h4>Languages I Enjoy Working With</h4>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java">
+    </a>
+    <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=c" alt="C">
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python">
+    </a>
+  </div>
+
+</div>
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanD3&show_icons=true&locale=en&layout=compact" alt="BogdanD3" /></p>
