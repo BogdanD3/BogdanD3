@@ -2,7 +2,7 @@
 <h3 align="center">CS student and a Web developer</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8a8f5588-53e3-4bb2-bb49-700abe5552c7" alt="Banner" />
+  <img src="assets/gitl.png" alt="Banner" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
