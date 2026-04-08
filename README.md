@@ -1,6 +1,10 @@
 <h1 align="center">Hi there! I'm Bogdan Delic</h1>
 <h3 align="center">CS student and a Web developer</h3>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a8f5588-53e3-4bb2-bb49-700abe5552c7" alt="Banner" />
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BogdanD3&label=Profile%20views&color=0e75b6&style=flat" alt="BogdanD3" /> </p>
